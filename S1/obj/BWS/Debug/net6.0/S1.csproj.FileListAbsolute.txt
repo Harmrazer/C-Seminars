@@ -1,0 +1,15 @@
+C:\Users\aturta\Desktop\C#Seminars\S1\bin\BWS\Debug\net6.0\S1.exe
+C:\Users\aturta\Desktop\C#Seminars\S1\bin\BWS\Debug\net6.0\S1.deps.json
+C:\Users\aturta\Desktop\C#Seminars\S1\bin\BWS\Debug\net6.0\S1.runtimeconfig.json
+C:\Users\aturta\Desktop\C#Seminars\S1\bin\BWS\Debug\net6.0\S1.dll
+C:\Users\aturta\Desktop\C#Seminars\S1\bin\BWS\Debug\net6.0\S1.pdb
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.csproj.AssemblyReference.cache
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.AssemblyInfoInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.AssemblyInfo.cs
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.csproj.CoreCompileInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.dll
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\refint\S1.dll
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.pdb
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\S1.genruntimeconfig.cache
+C:\Users\aturta\Desktop\C#Seminars\S1\obj\BWS\Debug\net6.0\ref\S1.dll
