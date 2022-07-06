@@ -104,33 +104,71 @@ while(current <= n)
 
 //Homework #1 
 
-// task 1
+/* Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 
+a = 5; b = 7 -> max = 7
+a = 2 b = 10 -> max = 10
+a = -9 b = -3 -> max = -3
+*/
 
-Console.WriteLine("Task # 1 ");
+/*Console.WriteLine("Task # 2 ");
 
-int n1, n2, max;
+int a, b, max;
 
 Console.Write("Input first number: ");
 
-n1 = Convert.ToInt32(Console.ReadLine());
+a = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input second number: ");
 
-n2 = Convert.ToInt32(Console.ReadLine());
+b = Convert.ToInt32(Console.ReadLine());
 
 
-if (n1 > n2)
+if (a > b)
 {
-    max = n1;
+    max = a;
 }
 
 else
 {
-    max = n2;
+    max = b;
 }
 
 Console.WriteLine("max = " + max);
 
+*/
+/*
+Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+2, 3, 7 -> 7
+44 5 78 -> 78
+22 3 9 -> 22
+*/
+/*
+Console.WriteLine("Task # 4 ");
+
+int a, b, c, max;
+
+Console.Write("Input first number: ");
+
+a = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Input second number: ");
+
+b = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Input third number: ");
+
+c = Convert.ToInt32(Console.ReadLine());
+
+max = a;
+
+if (b > max) max = b;
+
+if (c > max) max = c;
+
+
+Console.WriteLine("max = " + max);
+*/
 
 
