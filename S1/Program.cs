@@ -210,10 +210,10 @@ Console.WriteLine(" Task 8");
 
 Console.WriteLine("Input a positive number");
 
-int n = Convert.ToInt32(Console.ReadLine());
+int N = Convert.ToInt32(Console.ReadLine());
 int even = 2; //на выходе же показываем четные числа начиная с 1, значит следующкее ближайшее четное число 2.
 
-while(even <= n)
+while(even <= N)
 
     {
     Console.Write(even + " ");
