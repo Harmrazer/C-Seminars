@@ -113,25 +113,25 @@ a = -9 b = -3 -> max = -3
 Console.WriteLine("HomeWork # 1");
 Console.WriteLine("Task # 2 ");
 
-int a, b, max;
+int a1, b1, max;
 
 Console.Write("Input first number: ");
 
-a = Convert.ToInt32(Console.ReadLine());
+a1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input second number: ");
 
-b = Convert.ToInt32(Console.ReadLine());
+b1 = Convert.ToInt32(Console.ReadLine());
 
 
-if (a > b)
+if (a1 > b1)
 {
-    max = a;
+    max = a1;
 }
 
 else
 {
-    max = b;
+    max = b1;
 }
 
 Console.WriteLine("max = " + max);
@@ -147,28 +147,28 @@ Console.WriteLine("max = " + max);
 
 Console.WriteLine("Task # 4 ");
 
-int a, b, c, max;
+int a2, b2, c, max2;
 
 Console.Write("Input first number: ");
 
-a = Convert.ToInt32(Console.ReadLine());
+a2 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input second number: ");
 
-b = Convert.ToInt32(Console.ReadLine());
+b2 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Input third number: ");
 
 c = Convert.ToInt32(Console.ReadLine());
 
-max = a;
+max2 = a2;
 
-if (b > max) max = b;
+if (b2 > max2) max2 = b2;
 
-if (c > max) max = c;
+if (c > max2) max2 = c;
 
 
-Console.WriteLine("max = " + max);
+Console.WriteLine("max = " + max2);
 
 
 /*
@@ -182,22 +182,22 @@ Console.WriteLine("max = " + max);
 
 Console.WriteLine("Task # 6 ");
 
-int a;
+int a3;
 
 Console.WriteLine("Input number");
 
 
-a = Convert.ToInt32(Console.ReadLine());
+a3 = Convert.ToInt32(Console.ReadLine());
 
 
-if (a % 2 == 0)
+if (a3 % 2 == 0)
 {
-    Console.WriteLine(a + " is even");
+    Console.WriteLine(a3 + " is even");
 }
 
 else
 {
-    Console.WriteLine(a + " is uneven");
+    Console.WriteLine(a3 + " is uneven");
 }
 
 /*
