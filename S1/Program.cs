@@ -89,6 +89,7 @@ Console.WriteLine(result);
 */
 
 
+/* 
 Console.WriteLine("Input number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
@@ -99,5 +100,36 @@ while(current <= n)
     Console.Write(current + " ");
     current++;  //current = current + 1
 }
+*/
+
+//Homework #1 
+
+// task 1
+
+/* 
+Console.WriteLine("Task # 1 ");
+
+int n1, n2, max;
+
+Console.Write("Input first number: ");
+
+n1 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Input second number: ");
+
+n2 = Convert.ToInt32(Console.ReadLine());
+
+if (n1 > n2)
+{
+    max = n1;
+}
+
+else
+{
+    max = n2;
+}
+
+Console.WriteLine("max = " + max);
+*/
 
 
