@@ -106,7 +106,7 @@ while(current <= n)
 
 // task 1
 
-/* 
+
 Console.WriteLine("Task # 1 ");
 
 int n1, n2, max;
@@ -119,6 +119,7 @@ Console.Write("Input second number: ");
 
 n2 = Convert.ToInt32(Console.ReadLine());
 
+
 if (n1 > n2)
 {
     max = n1;
@@ -130,6 +131,6 @@ else
 }
 
 Console.WriteLine("max = " + max);
-*/
+
 
 
