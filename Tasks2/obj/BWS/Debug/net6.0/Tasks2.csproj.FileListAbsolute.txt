@@ -1,0 +1,15 @@
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.csproj.AssemblyReference.cache
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.AssemblyInfoInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.AssemblyInfo.cs
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.csproj.CoreCompileInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\bin\BWS\Debug\net6.0\Tasks2.exe
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\bin\BWS\Debug\net6.0\Tasks2.deps.json
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\bin\BWS\Debug\net6.0\Tasks2.runtimeconfig.json
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\bin\BWS\Debug\net6.0\Tasks2.dll
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\bin\BWS\Debug\net6.0\Tasks2.pdb
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.dll
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\refint\Tasks2.dll
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.pdb
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\Tasks2.genruntimeconfig.cache
+C:\Users\aturta\Desktop\C#Seminars\Tasks2\obj\BWS\Debug\net6.0\ref\Tasks2.dll
