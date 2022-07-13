@@ -16,6 +16,10 @@ int y = Convert.ToInt32(Console.ReadLine());
 
 int quart = FindQuart(x, y);
 
+
+
+
+
 if(quart == -1)
 
     Console.WriteLine("Point on the axes!");
