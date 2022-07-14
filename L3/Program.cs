@@ -1,4 +1,6 @@
 ﻿//вид 1
+
+/*
 void Method1()
 {
     Console.WriteLine("autor");
@@ -19,9 +21,9 @@ void Method2(string msg)
 {
    Console.WriteLine(msg); 
 }
-
+*/
 //Method2("Text");
-
+/*
 void Method21(string msg, int count)
 {
    int i =0;
@@ -98,7 +100,7 @@ for (int i = 2; i <= 10; i++)
     Console.WriteLine();
 }
 */
-string text = "— Я думаю, — сказал князь, улыбаясь, — что,"
+/*string text = "— Я думаю, — сказал князь, улыбаясь, — что,"
 + "ежели бы вас послали вместо нашего милого Винценгероде,"
 + "вы бы взяли приступом согласие прусского короля. "
 + "Вы так красноречивы. Вы дадите мне чаю?";
