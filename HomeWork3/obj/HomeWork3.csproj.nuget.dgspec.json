@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harmrazer/C-Seminars/HomeWork3/HomeWork3.csproj": {}
+    "C:\\Users\\aturta\\Desktop\\C#Seminars\\HomeWork3\\HomeWork3.csproj": {}
   },
   "projects": {
-    "/Users/harmrazer/C-Seminars/HomeWork3/HomeWork3.csproj": {
+    "C:\\Users\\aturta\\Desktop\\C#Seminars\\HomeWork3\\HomeWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harmrazer/C-Seminars/HomeWork3/HomeWork3.csproj",
+        "projectUniqueName": "C:\\Users\\aturta\\Desktop\\C#Seminars\\HomeWork3\\HomeWork3.csproj",
         "projectName": "HomeWork3",
-        "projectPath": "/Users/harmrazer/C-Seminars/HomeWork3/HomeWork3.csproj",
-        "packagesPath": "/Users/harmrazer/.nuget/packages/",
-        "outputPath": "/Users/harmrazer/C-Seminars/HomeWork3/obj/",
+        "projectPath": "C:\\Users\\aturta\\Desktop\\C#Seminars\\HomeWork3\\HomeWork3.csproj",
+        "packagesPath": "C:\\Users\\aturta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aturta\\Desktop\\C#Seminars\\HomeWork3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/harmrazer/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aturta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\bin\BWS\Debug\net6.0\HomeWork3.exe
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\bin\BWS\Debug\net6.0\HomeWork3.deps.json
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\bin\BWS\Debug\net6.0\HomeWork3.runtimeconfig.json
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\bin\BWS\Debug\net6.0\HomeWork3.dll
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\bin\BWS\Debug\net6.0\HomeWork3.pdb
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.AssemblyInfo.cs
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.dll
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\refint\HomeWork3.dll
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.pdb
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\HomeWork3.genruntimeconfig.cache
+C:\Users\aturta\Desktop\C#Seminars\HomeWork3\obj\BWS\Debug\net6.0\ref\HomeWork3.dll
