@@ -1,0 +1,15 @@
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.csproj.AssemblyReference.cache
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.AssemblyInfoInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.AssemblyInfo.cs
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.csproj.CoreCompileInputs.cache
+C:\Users\aturta\Desktop\C#Seminars\HW5\bin\BWS\Debug\net6.0\HW5.exe
+C:\Users\aturta\Desktop\C#Seminars\HW5\bin\BWS\Debug\net6.0\HW5.deps.json
+C:\Users\aturta\Desktop\C#Seminars\HW5\bin\BWS\Debug\net6.0\HW5.runtimeconfig.json
+C:\Users\aturta\Desktop\C#Seminars\HW5\bin\BWS\Debug\net6.0\HW5.dll
+C:\Users\aturta\Desktop\C#Seminars\HW5\bin\BWS\Debug\net6.0\HW5.pdb
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.dll
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\refint\HW5.dll
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.pdb
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\HW5.genruntimeconfig.cache
+C:\Users\aturta\Desktop\C#Seminars\HW5\obj\BWS\Debug\net6.0\ref\HW5.dll
