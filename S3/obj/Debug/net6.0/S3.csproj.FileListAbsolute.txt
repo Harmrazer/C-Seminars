@@ -1,0 +1,15 @@
+/Users/harmrazer/C-Seminars/S3/bin/Debug/net6.0/S3
+/Users/harmrazer/C-Seminars/S3/bin/Debug/net6.0/S3.deps.json
+/Users/harmrazer/C-Seminars/S3/bin/Debug/net6.0/S3.runtimeconfig.json
+/Users/harmrazer/C-Seminars/S3/bin/Debug/net6.0/S3.dll
+/Users/harmrazer/C-Seminars/S3/bin/Debug/net6.0/S3.pdb
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.csproj.AssemblyReference.cache
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.AssemblyInfoInputs.cache
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.AssemblyInfo.cs
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.csproj.CoreCompileInputs.cache
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.dll
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/refint/S3.dll
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.pdb
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/S3.genruntimeconfig.cache
+/Users/harmrazer/C-Seminars/S3/obj/Debug/net6.0/ref/S3.dll

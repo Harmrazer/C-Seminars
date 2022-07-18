@@ -40,8 +40,29 @@ while(current <= n)
     Console.Write(current * current + " ");
     current++;  //current = current + 1
 }
+*/
+
+//найти расстояние между двумя точками в двухмерном пространстве
+/*
+  double PantsOfPifagor(double xa, double ya, double xb, double yb)
+ {
+    double LenghtAB = Math.Sqrt((xb - xa) * (xb - xa)  +  (yb - ya) * (yb - ya));
+    return LenghtAB;
+
+ }
+Console.WriteLine("Input xa ");
+int xa = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input xb ");
+int xb = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input ya ");
+int ya = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input yb ");
+int yb = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("AB is: " + PantsOfPifagor(xa, ya, xb, yb));
 
 */
+
 
 
 //найти расстояние между двумя точками в двухмерном пространстве
