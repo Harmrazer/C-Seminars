@@ -1,0 +1,15 @@
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.csproj.AssemblyReference.cache
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.AssemblyInfoInputs.cache
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.AssemblyInfo.cs
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.csproj.CoreCompileInputs.cache
+/Users/harmrazer/C-Seminars/L4/bin/Debug/net6.0/L4
+/Users/harmrazer/C-Seminars/L4/bin/Debug/net6.0/L4.deps.json
+/Users/harmrazer/C-Seminars/L4/bin/Debug/net6.0/L4.runtimeconfig.json
+/Users/harmrazer/C-Seminars/L4/bin/Debug/net6.0/L4.dll
+/Users/harmrazer/C-Seminars/L4/bin/Debug/net6.0/L4.pdb
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.dll
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/refint/L4.dll
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.pdb
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/L4.genruntimeconfig.cache
+/Users/harmrazer/C-Seminars/L4/obj/Debug/net6.0/ref/L4.dll
