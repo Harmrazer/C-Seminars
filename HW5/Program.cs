@@ -9,7 +9,7 @@ Console.WriteLine();
 Console.WriteLine("Task # 34 ");
 Console.WriteLine();
 
-
+/*
 int [] CreateRandomArray(int size, int min, int max ) 
 {
     int[] array = new int[size];
@@ -66,7 +66,7 @@ int[] Sarray = CreateRandomArray(7, 1, 9);
 ShowArray(Sarray);
 
 Console.WriteLine("Summ of numbers on not even positions is: " + FindNotEvenSum(Sarray));
-
+*/
 
 //Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 Console.WriteLine("Task # 38 ");
@@ -78,7 +78,7 @@ Console.WriteLine();
 //+ new Random().NextDouble();
 
 //Console.WriteLine(num);
-
+/*
 void ShowDoubleArray(int [] array)
 {
     for(int i = 0; i < array.Length; i++)
@@ -86,20 +86,59 @@ void ShowDoubleArray(int [] array)
 
     Console.WriteLine();  
 }
+*/
 
-/*
-
-int DoubleMinMax(int[] array)
+int DoubleMin(int[] array)
 {
-    double min = array[1];
+    double min = array[0];
     for(double i =0; i < array.Length; i++)
-        if(array[i] < min ) array[i] = min;
+        if(min > array[i] ) min = arrai[i];
        
     return min;    
 }
-*/
 
+/*
 int[] Varray = CreateRandomArray(5, 1, 30);
 ShowDoubleArray(Varray);
-
+*/
 //Console.WriteLine("min " + DoubleMinMax(Sarray));
+
+
+  double[] arr = {2, 4, 7, 1, 5, 3, 6, 1};
+    void PrintArray(double[] array)
+{
+    int count = array.Length;
+
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write($"{array[i]*0.24} ");
+    }
+    Console.WriteLine();
+}
+
+PrintArray(arr);
+
+
+double num = new Random().Next(1, 10) + new Random().NextDouble() * 5;
+
+Console.WriteLine(num);
+
+
+/*
+double [] CreateArray(double size, double min, double max)
+
+{   
+    double[] array = new double[size];
+
+    for(double i = 0; i < size; i++)
+    
+        array[i] = new Random().NextDouble(min, max + 1);  // если в цикле for 1 действие, то {} можно не ставить
+
+        return array;
+} 
+*/
+
+
+
+
+
