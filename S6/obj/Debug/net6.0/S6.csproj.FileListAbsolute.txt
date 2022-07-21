@@ -1,0 +1,15 @@
+/Users/harmrazer/C-Seminars/S6/bin/Debug/net6.0/S6
+/Users/harmrazer/C-Seminars/S6/bin/Debug/net6.0/S6.deps.json
+/Users/harmrazer/C-Seminars/S6/bin/Debug/net6.0/S6.runtimeconfig.json
+/Users/harmrazer/C-Seminars/S6/bin/Debug/net6.0/S6.dll
+/Users/harmrazer/C-Seminars/S6/bin/Debug/net6.0/S6.pdb
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.csproj.AssemblyReference.cache
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.AssemblyInfoInputs.cache
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.AssemblyInfo.cs
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.csproj.CoreCompileInputs.cache
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.dll
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/refint/S6.dll
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.pdb
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/S6.genruntimeconfig.cache
+/Users/harmrazer/C-Seminars/S6/obj/Debug/net6.0/ref/S6.dll

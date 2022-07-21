@@ -9,7 +9,7 @@ Console.WriteLine();
 Console.WriteLine("Task # 34 ");
 Console.WriteLine();
 
-/*
+
 int [] CreateRandomArray(int size, int min, int max ) 
 {
     int[] array = new int[size];
@@ -42,7 +42,8 @@ int FindEven(int[] array)
 
 int[] array = CreateRandomArray(7, 1, 9);
 ShowArray(array);
-Console.WriteLine(FindEven(array));
+Console.WriteLine("Even numbers is " + FindEven(array));
+Console.WriteLine();
 
 
 //Задача 36: Задайте массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
@@ -66,79 +67,39 @@ int[] Sarray = CreateRandomArray(7, 1, 9);
 ShowArray(Sarray);
 
 Console.WriteLine("Summ of numbers on not even positions is: " + FindNotEvenSum(Sarray));
-*/
+Console.WriteLine();
 
 //Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 Console.WriteLine("Task # 38 ");
 Console.WriteLine();
 
 
+double[] DoubleArray = new double[10];
+  for (int i = 0; i < DoubleArray.Length; i++ )
+  {
+    DoubleArray[i] = new Random().Next(1, 10) * 1.24;
+    Console.Write(DoubleArray[i] + " ");
+  }
+Console.WriteLine();
 
-//double num = new Random().Next(1, 10); 
-//+ new Random().NextDouble();
+double max = DoubleArray[0];
+double min = DoubleArray[0];
 
-//Console.WriteLine(num);
-/*
-void ShowDoubleArray(int [] array)
-{
-    for(int i = 0; i < array.Length; i++)
-        Console.Write(array[i] * 0.24 + " ");
-
-    Console.WriteLine();  
-}
-*/
-
-int DoubleMin(int[] array)
-{
-    double min = array[0];
-    for(double i =0; i < array.Length; i++)
-        if(min > array[i] ) min = arrai[i];
-       
-    return min;    
-}
-
-/*
-int[] Varray = CreateRandomArray(5, 1, 30);
-ShowDoubleArray(Varray);
-*/
-//Console.WriteLine("min " + DoubleMinMax(Sarray));
-
-
-  double[] arr = {2, 4, 7, 1, 5, 3, 6, 1};
-    void PrintArray(double[] array)
-{
-    int count = array.Length;
-
-    for (int i = 0; i < count; i++)
+  for (int i = 1; i < DoubleArray.Length; i++)
+  {
+    if (max < DoubleArray[i])
     {
-        Console.Write($"{array[i]*0.24} ");
+      max = DoubleArray[i];
     }
-    Console.WriteLine();
-}
+        if (min > DoubleArray[i])
+    {
+      min = DoubleArray[i];
+    }
+  }
 
-PrintArray(arr);
+  double diff = max - min;
 
-
-double num = new Random().Next(1, 10) + new Random().NextDouble() * 5;
-
-Console.WriteLine(num);
-
-
-/*
-double [] CreateArray(double size, double min, double max)
-
-{   
-    double[] array = new double[size];
-
-    for(double i = 0; i < size; i++)
-    
-        array[i] = new Random().NextDouble(min, max + 1);  // если в цикле for 1 действие, то {} можно не ставить
-
-        return array;
-} 
-*/
-
-
+  Console.WriteLine($"max number is ({max}), min number is ({min}), differens is {diff}");
 
 
 
