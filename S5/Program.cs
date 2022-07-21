@@ -18,7 +18,7 @@ void ShowArray(int [] array)
     Console.WriteLine();  
 }
 
-
+/*
 int FindPositiveSum(int[] array)
 {
     int sum = 0;
@@ -27,7 +27,7 @@ int FindPositiveSum(int[] array)
 
     return sum;    
 }
-
+*/
 
 bool IsElementHere(int[] array, int num)
 {
