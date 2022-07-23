@@ -1,1 +1,4 @@
-bin
+[Bb]in/
+[Oo]bj/
+*.csproj
+
