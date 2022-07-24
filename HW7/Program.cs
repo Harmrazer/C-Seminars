@@ -22,17 +22,13 @@ double[,] CreateDouble2Darray(int rows, int columns, int minValue, int maxValue)
 
 void ShowDouble2Darray(double[,] array)
 {
-
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
             Console.Write(array[i, j] + " ");
 
         Console.WriteLine();
-
-
     }
-
 }
 
 
@@ -90,42 +86,29 @@ int[,] CreateInt2Darray(int rows, int columns, int minValue, int maxValue)
 
 void ArithmeticMean(int[,] array)
 {
-
     for (int j = 0; j < array.GetLength(1); j++)
     {   
         double sum=0;
         for (int i = 0; i < array.GetLength(0); i++)
             sum+=array[i,j];
-            Console.Write(sum / array.GetLength(0) + " ");
-
-        
-
-
+            Console.Write(sum / array.GetLength(0) + " "); 
     }
-
 }
 
 
 void Show2Darray(int[,] array)
 {
-
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
             Console.Write(array[i, j] + " ");
 
         Console.WriteLine();
-
-
-    }
-    
+    }   
 }
 
-Console.WriteLine("Input number rows ");
-int o = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input number columns ");
-int p = Convert.ToInt32(Console.ReadLine());
-int[,] TwoArray = CreateInt2Darray(o, p, 1, 9);
+
+int[,] TwoArray = CreateInt2Darray(5, 6, 1, 9);
 
 Console.WriteLine();
 Show2Darray(TwoArray);
