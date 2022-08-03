@@ -20,7 +20,7 @@
 
 //Задача 2: Задайте массив строк. Напишите программу, которая генерирует новый массив, объединяя элементы исходного массива попарно.
 
-// string [] names = {"Denis", "Popov", "Andrew", "Molin", "rs", "696", "Dmitrij", "lipan", "Ivan", "Putin"};
+//  string [] names = {"De", "nis", "And", "rew", "rs", "696", "Dmit", "rij", "Iv", "an"};
 
 
 
@@ -28,9 +28,9 @@
 // {
 //     string[] array = new string[nam.Length];
 
-//     for (int i = 0; i < nam.Length; i++)
+//     for (int i = 0; i < nam.Length-1; i=i+2)
 //     {
-//         array[i] = nam[i] + " " + nam[i + 1];
+//         array[i] = nam[i] + nam[i+1];
 //     }
 //     return array;
 // }
